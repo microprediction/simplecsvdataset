@@ -1,2 +1,2 @@
-# simplecsvdataset
-Create torch datasets from multiple csv files
+# DEPRECATED
+See [csvsdataset](https://github.com/microprediction/csvsdataset)
